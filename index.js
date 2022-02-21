@@ -1,0 +1,1 @@
+console.log("Index file is added")
